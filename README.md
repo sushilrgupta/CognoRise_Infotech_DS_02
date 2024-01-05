@@ -12,7 +12,7 @@ In an era where digital transactions are becoming increasingly prevalent, ensuri
 - **Source:** https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
 ## Files in this Repository
-- `titanic_analysis.ipynb`: Jupyter Notebook containing the analysis.
+- `CognoRise_Credit_Card_Fraud_Detection.ipynb`: Jupyter Notebook containing the analysis.
 - `README.md`: Documentation for the analysis.
 - `creditcard.csv`: Train and Test Dataset.
 
